@@ -10,7 +10,7 @@ This repository is meant to blossom into custom Universal Blue image tailored fo
 - [main](https://github.com/ublue-os/main/)
 - [hwe](https://github.com/ublue-os/hwe/) 
 
-This template includes a Containerfile and a Github workflow for building the container image. As soon as the workflow is enabled in your repository, it will build the container image and push it to the Github Container Registry.
+
 
 # Prerequisites
 
@@ -26,10 +26,7 @@ Working knowledge in the following topics:
 - Github Workflows
   - https://docs.github.com/en/actions/using-workflows
 
-## Template
-
-Select `Use this Template` and create a new repository from it. To enable the workflows, you may need to go the `Actions` tab of the new repository and click to enable workflows.
-
+#
 ## Containerfile
 
 This file defines the operations used to customize the selected image. It contains examples of possible modifications, including how to:
@@ -77,3 +74,5 @@ This provides users a method of verifying the image.
     ```
 
 4. Commit the `cosign.pub` file into your git repository
+
+This template includes a Containerfile and a Github workflow for building the container image. As soon as the workflow is enabled in your repository, it will build the container image and push it to the Github Container Registry.
