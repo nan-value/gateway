@@ -1,4 +1,4 @@
-# Gateway, For creatives
+# Gateway, for creatives
 
 # Purpose
 
