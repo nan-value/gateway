@@ -1,4 +1,4 @@
-# image-template
+# Gateway, For creatives
 
 # Purpose
 
@@ -25,8 +25,6 @@ Working knowledge in the following topics:
   - https://docs.fedoraproject.org/en-US/fedora-silverblue/
 - Github Workflows
   - https://docs.github.com/en/actions/using-workflows
-
-# How to Use
 
 ## Template
 
