@@ -2,7 +2,7 @@
 
 # Purpose
 
-This repository is meant to be a template for building your own custom Universal Blue image. This template is the recommended way to make customizations to any image published by the Universal Blue Project:
+This repository is meant to blossom into custom Universal Blue image tailored for creatives. This Project naturally falls into the same family of other Universal Blue systems, such as;
 - [Aurora](https://getaurora.dev/)
 - [Bazzite](https://bazzite.gg/)
 - [Bluefin](https://projectbluefin.io/)
