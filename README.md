@@ -26,7 +26,6 @@ Working knowledge in the following topics:
 - Github Workflows
   - https://docs.github.com/en/actions/using-workflows
 
-#
 ## Containerfile
 
 This file defines the operations used to customize the selected image. It contains examples of possible modifications, including how to:
