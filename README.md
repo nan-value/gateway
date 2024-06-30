@@ -1,7 +1,4 @@
 # Gateway, for creatives
-<p align="center">
-  <a href="https://bazzite.gg/"><img src="/repo_content/Bazzite_Tagline.svg?raw=true" alt="Bazzite"/></a>
-</p>
 
 # Purpose
 
