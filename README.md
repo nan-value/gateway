@@ -11,6 +11,8 @@ This repository is meant to blossom into custom Universal Blue image tailored fo
 - [hwe](https://github.com/ublue-os/hwe/) 
 
 
+> [!WARNING]
+> Everything below this message is boilerplate stuff that came with the template, Please ignore for now as it is all going to be changed.
 
 # Prerequisites
 
