@@ -12,7 +12,7 @@ This repository is meant to blossom into custom Universal Blue image tailored fo
 
 
 > [!WARNING]
-> Everything below this message is boilerplate stuff that came with the template, Please ignore for now as it is all going to be changed.
+> Everything below this message is boilerplate stuff that came with the template, Please ignore for now as it all WILL be changed.
 
 # Prerequisites
 
